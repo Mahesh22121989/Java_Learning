@@ -1,0 +1,22 @@
+package exceptions;
+
+public class Trycatch {
+	static String a=null;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	static void m1()
+	{
+		try {
+			if(a==10)
+			{
+				System.out.println("A value is 10");
+			}
+			
+		}
+	}
+
+}
