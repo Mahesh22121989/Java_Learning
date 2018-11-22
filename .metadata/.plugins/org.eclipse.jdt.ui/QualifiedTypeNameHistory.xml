@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.management.StringValueExp"/>
+<fullyQualifiedTypeName name="exceptions.Throw"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+</qualifiedTypeNameHistroy>
